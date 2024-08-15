@@ -21,8 +21,6 @@ This guide assumes you are using an Ubuntu LTS release. If you are using a diffe
 
 ## Prerequisites
 
-Make sure you have Go version 1.22.0 installed. You can download the latest version and follow the installation instructions from the [official Go website](https://go.dev/dl/).
-
 ## Building `sided` from Source
 
 ### Step 1: Verify Golang Installation
