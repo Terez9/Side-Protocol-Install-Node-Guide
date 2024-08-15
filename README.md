@@ -1,5 +1,8 @@
 # Side-Protocol-Install-Node-Guide
 
+![images](https://github.com/user-attachments/assets/bace43eb-f564-4318-9a40-8583fa426568)
+
+
 This guide will help you through the installation and configuration of the `sided` binary.
 
 ## Hardware Specifications
